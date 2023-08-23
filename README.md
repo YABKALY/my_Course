@@ -1,4 +1,4 @@
- GTST V1 Course  
+my Course  
 
 
 
